@@ -13,13 +13,7 @@ Built with:
 
 ## Setup and usage
 
-Live page [here]
-
-## Screenshot
-
-## Sources
-
-- [Sources here]()
+Live page [https://main--react24ksallazoo.netlify.app/]
 
 ## Authors and acknowledgment
 
@@ -27,3 +21,5 @@ Salla Närhi
 
 - GitHub @sallaselina
 - [LinkedIn](https://www.linkedin.com/in/salla-narhi/)
+
+Special thank you to Margit Tennosaar who was teaching the course.
